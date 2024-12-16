@@ -1,0 +1,425 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#maincontainer {
+    max-width: 1604px;
+    background-color: #E2F7FF;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#maindiv {
+    max-width: 1412px;
+    background-color: #E2F7FF;
+    margin: 0 auto;
+}
+#childdiv {
+    max-width: 1280px;
+    padding: 0 32px;
+    margin: 0 auto;
+}
+
+#imageone {
+    display: inline-block;
+    max-width: 1216px;
+    width: 100%;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+#imagep {
+    margin-top: 20px;
+    color: #6941C6;
+}
+
+#imagesecondtitle {
+    margin-top: 8px;
+    font-size: 30px;
+    color: #181D27;
+}
+
+#imagesecondp {
+    margin-top: 8px;
+    font-size: 16px;
+    color: #535862;
+}
+
+#design {
+    display: inline-block;
+    margin-top: 24px;
+    border: 1px solid #E9D7FE;
+    border-radius: 20px;
+    padding: 8px 12px;
+    background-color: #F9F5FF;
+    color: #6941C6;
+}
+
+#research {
+    display: inline-block;
+    margin-left: 8px;
+    margin-top: 24px;
+    border: 1px solid #C7D7FE;
+    border-radius: 20px;
+    padding: 8px 12px;
+    color: #3538CD;
+    background-color: #EEF4FF;
+}
+
+#Presentation {
+    display: inline-block;
+    margin-left: 8px;
+    margin-top: 24px;
+    border: 1px solid #FCCEEE;
+    border-radius: 20px;
+    padding: 8px 12px;
+    color: #C11574;
+    background-color: #FDF2FA;
+}
+
+#carddiv {
+    margin-top: 64px;
+}
+
+#migratingdiv {
+    display: inline-block;
+}
+
+#firstgirlimg {
+    max-width: 348px;
+}
+
+#firstgrilp {
+    margin-top: 20px;
+    color: #6941C6;
+}
+
+#Migratingp {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+#arrowimg {
+    vertical-align: middle;
+    margin-left: 80px;
+}
+
+#linearp {
+    text-align: start;
+    max-width: 348px;
+    color: #535862;
+    margin-top: 10px;
+}
+
+#product {
+    display: inline-block;
+    border: 1px solid #B9E6FE;
+    background-color: #F0F9FF;
+    border-radius: 20px;
+    padding: 8px 12px;
+    margin-top: 24px;
+    color: #026AA2;
+}
+
+#tools {
+    display: inline-block;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    border-radius: 20px;
+    padding: 8px 12px;
+    margin-top: 24px;
+    color: #C11574;
+    margin-left: 8px;
+}
+
+#SaaS {
+    display: inline-block;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    border-radius: 20px;
+    padding: 8px 12px;
+    margin-top: 24px;
+    color: #C11574;
+    margin-left: 8px;
+}
+
+#buildingdiv {
+    display: inline-block;
+    margin-left: 32px;
+}
+
+#secondimg {
+    max-width: 352px;
+}
+
+#lanap {
+    color: #6941C6;
+    margin-top: 20px;
+}
+
+#buildingtitle {
+    display: inline-block;
+    font-size: 24px;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#buildingarrow {
+    vertical-align: middle;
+    margin-left: 80px;
+}
+
+#risep {
+    text-align: start;
+    color: #535862;
+    max-width: 384px;
+    margin-top: 8px;
+}
+
+#Softwarep {
+    display: inline-block;
+    margin-top: 24px;
+    border: 1px solid #ABEFC6;
+    border-radius: 20px;
+    padding: 8px 12px;
+    color: #067647;
+    background-color: #ECFDF3;
+}
+
+#toolsp {
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 8px;
+    border: 1px solid #FCCEEE;
+    border-radius: 20px;
+    padding: 8px 12px;
+    color: #C11574;
+    background-color: #ECFDF3;
+}
+
+#billdiv {
+    display: inline-block;
+    margin-left: 32px;
+}
+
+#mountphoto {
+    max-width: 352px;
+}
+
+#alecp {
+    color: #6941C6;
+    margin-top: 20px;
+}
+
+#billp {
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+#billarrow {
+    vertical-align: middle;
+    margin-top: 8px;
+    margin-left: 45px;
+}
+
+#likep {
+    text-align: start;
+    max-width: 384px;
+    color: #535862;
+    margin-top: 8px;
+}
+
+#Leadership {
+    display: inline-block;
+    border: 1px solid #E9D7FE;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-top: 24px;
+    background-color: #F9F5FF;
+    color: #6941C6;
+}
+
+#Management {
+    display: inline-block;
+    border: 1px solid #D5D9EB;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin-top: 24px;
+    margin-left: 8px;
+    background-color: #F8F9FC;
+    color: #363F72;
+}
+#pmdiv {
+    display: inline-block;
+}
+
+#pmimg {
+    max-width: 354px;
+    margin-top: 48px;
+    margin-left: -3px;
+}
+
+#demip {
+    color: #6941C6;
+    margin-top: 20px;
+}
+
+#pmp {
+    display: inline-block;
+    font-size: 24px;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#pmarrow {
+    vertical-align: middle;
+    margin-left: 115px;
+}
+
+#mentalp {
+    text-align: start;
+    max-width: 384px;
+    margin-top: 8px;
+}
+
+#productbutton {
+    display: inline-block;
+    border: 1px solid #B9E6FE;
+    background-color: #F0F9FF;
+    border-radius: 20px;
+    padding: 8px 12px;
+    margin-top: 24px;
+    color: #026AA2;
+}
+
+#researchbutton {
+    display: inline-block;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    border-radius: 20px;
+    padding: 8px 12px;
+    margin-top: 24px;
+    color: #3538CD;
+    margin-left: 8px;
+}
+
+#Frameworks {
+    display: inline-block;
+    border: 1px solid #F9DBAF;
+    border-radius: 20px;
+    background-color: #FEF6EE;
+    padding: 8px 12px;
+    margin-top: 24px;
+    color: #B93815;
+    margin-left: 8px;
+}
+
+#componentsdiv {
+    display: inline-block;
+}
+
+#componentsimg {
+    max-width: 352px;
+    
+}
+
+#candicep {
+    margin-top: 20px;
+    color: #6941C6;
+}
+
+#whatp {
+    display: inline-block;
+    font-size: 24px;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#whatarrow {
+    vertical-align: middle;
+    margin-left: 110px;
+}
+
+#Introductionp {
+    text-align: start;
+    width: 384px;
+    margin-top: 8px;
+}
+
+#designp {
+    display: inline-block;
+    margin-top: 24px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    padding: 8px 12px;
+    border-radius: 20px;
+    color: #6941C6;
+}
+
+#Researchp {
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 8px;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    padding: 8px 12px;
+    border-radius: 20px;
+    color: #3538CD;
+}
+
+#natalidiv {
+    display: inline-block;
+    margin-left: 32px;
+    vertical-align: bottom;
+    margin-bottom: -24px;
+}
+
+#nataliimg {
+    max-width: 352px;
+}
+
+#natalip {
+    margin-top: 20px;
+    color: #6941C6;
+}
+
+#collaborationp {
+    display: inline-block;
+    font-size: 24px;
+    max-width: 344px;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+#Collaborationsecondp {
+    text-align: start;
+    max-width: 384px;
+    color: #535862;
+    margin-top: 8px;
+}
+
+#secinddesignp {
+    display: inline-block;
+    margin-top: 24px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    padding: 8px 12px;
+    border-radius: 20px;
+    color: #6941C6;
+}
+
+#secondResearchp {
+    display: inline-block;
+    margin-top: 24px;
+    margin-left: 8px;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    padding: 8px 12px;
+    border-radius: 20px;
+    color: #3538CD;
+}
